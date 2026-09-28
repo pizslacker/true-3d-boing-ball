@@ -1,4 +1,4 @@
-# True 3D Amiga Boing Ball
+# True 3D (Amiga) Boing Ball
 
 ![boing-ball](images/boing-ball.png)
 
