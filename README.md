@@ -36,9 +36,9 @@ This allows new effects to be dropped into the engine with zero modifications to
 
 ## Dependencies
 To build and run this project, you need the SDL2 development headers:
-- sdl2
-- sdl2_image
-- sdl2_mixer
+- **sdl2**
+- **sdl2-image**
+- **sdl2-mixer**
 
 On Debian/Ubuntu-based systems:
 ```bash
